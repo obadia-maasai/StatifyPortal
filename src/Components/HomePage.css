@@ -1,0 +1,49 @@
+/* src/pages/HomePage.css */
+.homepage {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.header {
+    background-color: #024A59;
+    padding: 20px;
+    color: white;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin: 20px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #f0f0f0;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
